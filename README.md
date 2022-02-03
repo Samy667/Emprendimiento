@@ -1,3 +1,6 @@
+
+![367f4daa17028d9031146db48410fbf253268d0dr1-851-315_hq](https://user-images.githubusercontent.com/92957264/152365808-61e0009f-c226-4f5a-9e45-6545469a6b96.gif)
+
 # Love your pets
 En este repositorio se podrá observar una página creada como publicidad para nuestro emprendimiento usando la metodología "DESING THINKING".
 
@@ -39,5 +42,5 @@ En esta fase se dependerá de las opiniones de mis usuarios y yo debo estar aten
 
 ![5-05](https://user-images.githubusercontent.com/92957264/152364178-10560cb1-8f53-4a7a-a994-b1685851c972.jpg)
 
-
-
+Siendo eso todo ...
+![5a2ccf5cb52613c315a951002fd929d203e5e231_hq](https://user-images.githubusercontent.com/92957264/152366272-1e41f65f-fe93-4b8c-b49e-f1d78c797900.gif)
