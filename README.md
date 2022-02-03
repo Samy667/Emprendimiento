@@ -1,6 +1,12 @@
 # Love your pets
 En este repositorio se podrá observar una página creada como publicidad para nuestro emprendimiento usando la metodología "DESING THINKING".
+
+![Love-Your-Pet-Day](https://user-images.githubusercontent.com/92957264/152358901-7e775867-4cfe-433b-b9ce-81e497ddd2e0.png)
+
 ## Emprendimiento - Desing Thinking
+El Design Thinking —o pensamiento de diseño— es un método de trabajo que enfrenta y soluciona los retos y problemas que surgen en las empresas a base de creatividad
+y otras competencias que muchos emprendedores no toman en consideración antes de emprender.
+
 ### Empatizar:
 Investigar y comprender el problema. Nuestro problema es que es muy difícil encontrar ropa para mascotas de todos los tamaños, ya que
 yo he tenido la experiencia de encontrar muy fácil ropa para perritos pequeños, pero para los grandes no se encuentra fácilmente.
