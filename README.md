@@ -4,8 +4,10 @@ En este repositorio se podrá observar una página creada como publicidad para n
 ![Love-Your-Pet-Day](https://user-images.githubusercontent.com/92957264/152358901-7e775867-4cfe-433b-b9ce-81e497ddd2e0.png)
 
 ## Emprendimiento - Desing Thinking
-El Design Thinking —o pensamiento de diseño— es un método de trabajo que enfrenta y soluciona los retos y problemas que surgen en las empresas a base de creatividad
+_El Design Thinking o pensamiento de diseño_ es un método de trabajo que enfrenta y soluciona los retos y problemas que surgen en las empresas a base de creatividad
 y otras competencias que muchos emprendedores no toman en consideración antes de emprender.
+
+![Design-Thinking](https://user-images.githubusercontent.com/92957264/152359909-6182fc0d-c949-440e-8d21-284989fb7d91.jpg)
 
 ### Empatizar:
 Investigar y comprender el problema. Nuestro problema es que es muy difícil encontrar ropa para mascotas de todos los tamaños, ya que
